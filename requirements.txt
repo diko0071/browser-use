@@ -1,0 +1,6 @@
+playwright==1.48.0
+python-dotenv==1.0.1
+openai==1.59.3
+playsound==1.3.0
+anthropic==0.42.0
+asyncio==3.4.3
